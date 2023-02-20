@@ -1,0 +1,8 @@
+Headder As CanvasComponent:
+    Fill: =RGBA(0, 0, 0, 0)
+    Height: =App.Height / 10
+    Width: =App.Width
+    X: =0
+    Y: =0
+    ZIndex: =1
+

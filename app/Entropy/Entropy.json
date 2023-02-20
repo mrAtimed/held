@@ -1,13 +1,20 @@
 {
-  "ComponentIndexes": {},
+  "ComponentIndexes": {
+    "Component2": 2,
+    "Headder": 1
+  },
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
     "_index": 3,
-    "App": 1
+    "App": 1,
+    "Component2": 22,
+    "Headder": 21,
+    "Label1": 24,
+    "X": 23
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "02/20/2023 10:25:18",
+  "HeaderLastSavedDateTimeUTC": "02/20/2023 10:40:51",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "0175a8bd-2c5d-4709-ba25-8883d71e2e1d": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/4ef7de8d4bdc40c48d41031bdc6ba8f6\"",
@@ -16,8 +23,15 @@
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
   "LocalResourceRootPaths": {},
-  "OrderComponentMetadata": {},
-  "OrderComponentTemplate": {},
+  "OldLogoFileName": "ogfjyptv.jpg",
+  "OrderComponentMetadata": {
+    "b9f92939a4eb47ec81592b9123c0206a": 1,
+    "f9adb5dfe499474e90614ba40a31b225": 0
+  },
+  "OrderComponentTemplate": {
+    "b9f92939a4eb47ec81592b9123c0206a": 1,
+    "f9adb5dfe499474e90614ba40a31b225": 0
+  },
   "OrderDataSource": {
     "00kreiranjenovoga": 0,
     "app_implatant": 6,
@@ -31,15 +45,26 @@
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {},
+  "OrderXMLTemplate": {
+    "label": 1,
+    "rectangle": 0
+  },
   "OverridablePropertiesEntry": {
     "_index": {},
-    "App": {}
+    "App": {},
+    "Component2": {},
+    "Headder": {},
+    "Label1": {},
+    "X": {}
   },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PublishOrderIndices": {
     "_index": 0,
-    "App": 0
+    "App": 0,
+    "Component2": 0,
+    "Headder": 0,
+    "Label1": 1,
+    "X": 0
   },
   "ResourcesJsonIndices": {
     "Image-SampleImage": 0
@@ -59,7 +84,7 @@
       "screen": 1
     },
     "DeserializationLoadTime": 0.6261724,
-    "ErrorCount": 0
+    "ErrorCount": 5
   },
   "WasLocalDatabaseReferencesEmpty": true
 }
