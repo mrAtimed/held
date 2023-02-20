@@ -1,0 +1,65 @@
+{
+  "ComponentIndexes": {},
+  "ControlUniqueGuids": {},
+  "ControlUniqueIds": {
+    "_index": 3,
+    "App": 1
+  },
+  "FunctionParamsInvariantScripts": {},
+  "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "02/20/2023 10:25:18",
+  "IsLegacyComponentAllowGlobalScopeCase": false,
+  "LocalConnectionIDReferences": {
+    "0175a8bd-2c5d-4709-ba25-8883d71e2e1d": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/4ef7de8d4bdc40c48d41031bdc6ba8f6\"",
+    "5eb018e4-354c-4699-adac-34c30b62be48": "\"/providers/microsoft.powerapps/apis/shared_logicflows/connections/2d90b5df-baaa-4060-a3ea-310ac7749413\""
+  },
+  "LocalDatabaseReferencesAsEmpty": false,
+  "LocalResourceFileNames": {},
+  "LocalResourceRootPaths": {},
+  "OrderComponentMetadata": {},
+  "OrderComponentTemplate": {},
+  "OrderDataSource": {
+    "00kreiranjenovoga": 0,
+    "app_implatant": 6,
+    "app_pacjenti": 5,
+    "app_papirologija": 4,
+    "app_tip_operacije": 3,
+    "app_zahvat": 2,
+    "CustomGallerySample": 7,
+    "Dokumenti": 1
+  },
+  "OrderGroupControls": {},
+  "OrderPcfTemplate": {},
+  "OrderTemplate": {},
+  "OrderXMLTemplate": {},
+  "OverridablePropertiesEntry": {
+    "_index": {},
+    "App": {}
+  },
+  "PCFDynamicSchemaForIRRetrievalEntry": {},
+  "PublishOrderIndices": {
+    "_index": 0,
+    "App": 0
+  },
+  "ResourcesJsonIndices": {
+    "Image-SampleImage": 0
+  },
+  "RuleScreenIdWithoutScreen": {},
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.1615064,
+    "ControlCount": {
+      "button": 3,
+      "gallery": 2,
+      "galleryTemplate": 2,
+      "icon": 1,
+      "image": 2,
+      "label": 5,
+      "rectangle": 2,
+      "screen": 1
+    },
+    "DeserializationLoadTime": 0.6261724,
+    "ErrorCount": 0
+  },
+  "WasLocalDatabaseReferencesEmpty": true
+}
