@@ -3,7 +3,10 @@ App As appinfo:
     OnStart: |-
         =
         Set( CSS, 
-            { Name: "Milton", Address: "1 Main St" }
+            {
+            Primarna: "Milton",
+            Sekundarna: "1 Main St"
+            }
         
          )
     StartScreen: =RGBA(100, 118, 132, 1)
