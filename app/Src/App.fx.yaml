@@ -4,8 +4,8 @@ App As appinfo:
         =
         Set( CSS, 
             {
-            Primarna: "Milton",
-            Sekundarna: "1 Main St"
+            Primarna: RGBA(100, 118, 132, 1),
+            Sekundarna: RGBA(100, 118, 132, .5)
             }
         
          )
