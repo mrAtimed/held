@@ -116,6 +116,7 @@
     "UserLocale": "en-US"
   },
   "ScreenOrder": [
-    "_index"
+    "_index",
+    "Home"
   ]
 }

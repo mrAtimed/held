@@ -55,26 +55,59 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "_index.Label1.Text"
+                  "fullyQualifiedName": "Headder.logo.OnSelect"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "_index.Label1.Text",
+                  "fullyQualifiedName": "Headder.logo.OnSelect",
                   "relativeAddress": 0
                 },
                 "region": {
-                  "charLength": 1,
-                  "charOffset": 0,
+                  "charLength": 4,
+                  "charOffset": 9,
                   "snippet": {
-                    "text": "\\"
+                    "text": "Home"
                   }
                 }
               },
               "properties": {
-                "member": "Text",
-                "module": "_index",
-                "type": "_index.Label1"
+                "member": "OnSelect",
+                "module": "Headder",
+                "type": "Headder.logo"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Navigate"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrNeedControl-Func",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "App.CSS"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "App.CSS",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "CSS",
+                "module": "App",
+                "type": "App"
               }
             }
           ],
@@ -82,10 +115,10 @@
             "id": "issue"
           },
           "properties": {
-            "level": "High"
+            "level": "Medium"
           },
-          "ruleId": "app-ErrBadToken",
-          "ruleIndex": 1
+          "ruleId": "app-UnusedVariables",
+          "ruleIndex": 2
         }
       ],
       "tool": {
@@ -111,20 +144,34 @@
               }
             },
             {
-              "id": "app-ErrBadToken",
+              "id": "app-ErrNeedControl-Func",
               "messageStrings": {
                 "issue": {
-                  "text": "Unexpected characters. Characters are used in the formula in an unexpected way."
+                  "text": "The first argument of '{0}' should be a control or screen."
+                }
+              },
+              "properties": {
+                "componentType": "app",
+                "level": "High",
+                "primaryCategory": "formula",
+                "whyFix": ""
+              }
+            },
+            {
+              "id": "app-UnusedVariables",
+              "messageStrings": {
+                "issue": {
+                  "text": "Unused variable"
                 }
               },
               "properties": {
                 "componentType": "app",
                 "howToFix": [
-                  "Remove or replace the unexpected characters."
+                  "Remove the unused variable."
                 ],
-                "level": "High",
-                "primaryCategory": "formula",
-                "whyFix": ""
+                "level": "Medium",
+                "primaryCategory": "performance",
+                "whyFix": "This variable is declared but is not referenced by any control, so it is not needed."
               }
             }
           ],
