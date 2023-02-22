@@ -1,0 +1,45 @@
+[
+  {
+    "ApiId": "/providers/microsoft.powerapps/apis/shared_sharepointonline",
+    "CdpRevision": {
+      "BaseUrl": "/",
+      "LastChangedTimeString": "2022-12-15T17:53:17.6240000Z",
+      "RevisionNumber": 1
+    },
+    "ConnectedDataSourceInfoNameMapping": {
+      "{FilenameWithExtension}": "Naziv datoteke s nastavkom",
+      "{FullPath}": "Cijeli put",
+      "{Identifier}": "Identifikator",
+      "{IsCheckedOut}": "Odjavljeno",
+      "{IsFolder}": "IsFolder",
+      "{Link}": "Veza na stavku",
+      "{ModerationComment}": "Komentari povezani s odobrenjem sadržaja ove stavke popisa",
+      "{ModerationStatus}": "Stanje odobrenja sadržaja",
+      "{Name}": "Naziv",
+      "{Path}": "Put mape",
+      "{Thumbnail}": "Thumbnail",
+      "{TriggerWindowEndToken}": "Token za kraj prozora s okidačem",
+      "{TriggerWindowStartToken}": "Token za početak prozora s okidačem",
+      "{VersionNumber}": "Broj verzije",
+      "Author": "Stvorio",
+      "Author#Claims": "Stvorio Claims",
+      "CheckoutUser": "Odjavio",
+      "CheckoutUser#Claims": "Odjavio Claims",
+      "ComplianceAssetId": "ID resursa usklađenosti",
+      "Created": "Stvoreno",
+      "Editor": "Izmijenio",
+      "Editor#Claims": "Izmijenio Claims",
+      "ID": "ID",
+      "Modified": "Izmijenjeno",
+      "OData__DisplayName": "Osjetljivost",
+      "OData__ExtendedDescription": "Opis",
+      "Title": "Naslov"
+    },
+    "DatasetName": "https://poliklinikaheld.sharepoint.com/sites/app",
+    "EncodeDataset": true,
+    "IsSampleData": false,
+    "IsWritable": true,
+    "Name": "Dokumenti",
+    "Type": "ConnectedDataSourceInfo"
+  }
+]

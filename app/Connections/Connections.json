@@ -1,0 +1,93 @@
+{
+  "0175a8bd-2c5d-4709-ba25-8883d71e2e1d": {
+    "connectionParameters": {
+      "sku": "Enterprise"
+    },
+    "connectionRef": {
+      "apiTier": "Standard",
+      "displayName": "SharePoint",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1610-greyhound-localization-RelayFix/1.0.1610.3091/sharepointonline/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline",
+      "parameterHints": {},
+      "parameterHintsV2": {}
+    },
+    "datasets": {
+      "https://poliklinikaheld.sharepoint.com/sites/app": {
+        "dataSources": {
+          "app_implatant": {
+            "tableName": "233fc419-50af-4382-ac96-8ffe97fa49a3"
+          },
+          "app_pacjenti": {
+            "tableName": "206df244-f120-4028-b7f1-bdc466c80e7b"
+          },
+          "app_papirologija": {
+            "tableName": "0f54826b-6236-4221-9f60-f59cdfc5ba48"
+          },
+          "app_tip_operacije": {
+            "tableName": "6dc606b0-c2fd-4c0a-92d1-8e324ed1b0b5"
+          },
+          "app_zahvat": {
+            "tableName": "17889fa2-2388-4d64-b00e-21f754dd75c8"
+          },
+          "Dokumenti": {
+            "tableName": "e09f80ec-c936-45c9-aae6-608fce749d8a"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "Dokumenti",
+      "app_zahvat",
+      "app_tip_operacije",
+      "app_papirologija",
+      "app_pacjenti",
+      "app_implatant"
+    ],
+    "dependencies": {},
+    "dependents": [
+      "5eb018e4-354c-4699-adac-34c30b62be48"
+    ],
+    "id": "0175a8bd-2c5d-4709-ba25-8883d71e2e1d"
+  },
+  "5eb018e4-354c-4699-adac-34c30b62be48": {
+    "connectionParameters": {
+      "workFlowCallbackUri": "https://prod-03.westeurope.logic.azure.com:443/workflows/52444adf229e4d8d829cf9a4b1b24287/triggers/manual/paths/invoke?api-version=2016-06-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=kAg2z3Gv03BEP1XQ38jzgFLscK0J3vwBw9kZQLk0nR8",
+      "workflowEndpoint": "/subscriptions/ac07fa44-4742-482d-aa28-c00945932935/resourceGroups/861fa2f0631241b195328b0db71f9ecd-84c41a870ae24bd88d9060a307a9e4b5/providers/Microsoft.Logic/workflows/2d90b5df-baaa-4060-a3ea-310ac7749413",
+      "workflowName": "2d90b5df-baaa-4060-a3ea-310ac7749413",
+      "workflowPath": "/subscriptions/ac07fa44-4742-482d-aa28-c00945932935/resourceGroups/861fa2f0631241b195328b0db71f9ecd-84c41a870ae24bd88d9060a307a9e4b5/providers/Microsoft.Logic/workflows/2d90b5df-baaa-4060-a3ea-310ac7749413"
+    },
+    "connectionRef": {
+      "apiTier": "Standard",
+      "displayName": "Logic flows",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1534/1.0.1534.2605/logicflows/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_logicflows",
+      "parameterHints": {
+        "0175a8bd-2c5d-4709-ba25-8883d71e2e1d": {
+          "value": "shared_sharepointonline"
+        },
+        "workflowEntityId": {},
+        "workflowName": {
+          "value": "2d90b5df-baaa-4060-a3ea-310ac7749413"
+        }
+      },
+      "parameterHintsV2": {
+        "shared_sharepointonline": {
+          "value": "0175a8bd-2c5d-4709-ba25-8883d71e2e1d"
+        },
+        "workflowEntityId": {},
+        "workflowName": {
+          "value": "2d90b5df-baaa-4060-a3ea-310ac7749413"
+        }
+      }
+    },
+    "datasets": {},
+    "dataSources": [
+      "00kreiranjenovoga"
+    ],
+    "dependencies": {
+      "shared_sharepointonline": "0175a8bd-2c5d-4709-ba25-8883d71e2e1d"
+    },
+    "dependents": [],
+    "id": "5eb018e4-354c-4699-adac-34c30b62be48"
+  }
+}

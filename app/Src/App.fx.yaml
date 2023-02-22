@@ -1,0 +1,13 @@
+App As appinfo:
+    BackEnabled: =false
+    OnStart: |-
+        =
+        Set( CSS, 
+            {
+            Primarna: RGBA(100, 118, 132, 1),
+            Sekundarna: RGBA(100, 118, 132, .5)
+            }
+        
+         )
+    StartScreen: =RGBA(100, 118, 132, 1)
+

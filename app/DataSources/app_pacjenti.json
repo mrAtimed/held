@@ -1,0 +1,46 @@
+[
+  {
+    "ApiId": "/providers/microsoft.powerapps/apis/shared_sharepointonline",
+    "CdpRevision": {
+      "BaseUrl": "/",
+      "LastChangedTimeString": "2022-11-09T17:32:51.2080000Z",
+      "RevisionNumber": 1
+    },
+    "ConnectedDataSourceInfoNameMapping": {
+      "{Attachments}": "Privici",
+      "{Attachments}@odata.type": "{Attachments} ({Attachments}@odata.type)",
+      "{FilenameWithExtension}": "Naziv datoteke s nastavkom",
+      "{FullPath}": "Cijeli put",
+      "{HasAttachments}": "Sadrži privitke",
+      "{Identifier}": "Identifikator",
+      "{IsFolder}": "IsFolder",
+      "{Link}": "Veza na stavku",
+      "{ModerationComment}": "Komentari povezani s odobrenjem sadržaja ove stavke popisa",
+      "{ModerationStatus}": "Stanje odobrenja sadržaja",
+      "{Name}": "Naziv",
+      "{Path}": "Put mape",
+      "{Thumbnail}": "Thumbnail",
+      "{TriggerWindowEndToken}": "Token za kraj prozora s okidačem",
+      "{TriggerWindowStartToken}": "Token za početak prozora s okidačem",
+      "{VersionNumber}": "Broj verzije",
+      "Author": "Created By",
+      "Author#Claims": "Created By Claims",
+      "ComplianceAssetId": "Compliance Asset Id",
+      "Created": "Created",
+      "Editor": "Modified By",
+      "Editor#Claims": "Modified By Claims",
+      "ID": "ID",
+      "Modified": "Modified",
+      "OData__datum_rodenja": "_datum_rodenja",
+      "OData__ime": "_ime",
+      "OData__prezime": "_prezime",
+      "Title": "Title"
+    },
+    "DatasetName": "https://poliklinikaheld.sharepoint.com/sites/app",
+    "EncodeDataset": true,
+    "IsSampleData": false,
+    "IsWritable": true,
+    "Name": "app_pacjenti",
+    "Type": "ConnectedDataSourceInfo"
+  }
+]
