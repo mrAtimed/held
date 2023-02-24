@@ -505,17 +505,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "App.CSS"
+                  "fullyQualifiedName": "App._NavMenu"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "App.CSS",
+                  "fullyQualifiedName": "App._NavMenu",
                   "relativeAddress": 0
                 }
               },
               "properties": {
-                "member": "CSS",
+                "member": "_NavMenu",
                 "module": "App",
                 "type": "App"
               }
@@ -535,17 +535,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "App._NavMenu"
+                  "fullyQualifiedName": "App.CSS"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "App._NavMenu",
+                  "fullyQualifiedName": "App.CSS",
                   "relativeAddress": 0
                 }
               },
               "properties": {
-                "member": "_NavMenu",
+                "member": "CSS",
                 "module": "App",
                 "type": "App"
               }
