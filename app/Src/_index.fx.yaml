@@ -5,3 +5,6 @@ _index As screen:
 
     Headder_1 As _headder:
 
+    sidebar_1 As _menu:
+        ZIndex: =2
+

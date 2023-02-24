@@ -115,19 +115,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "sidebar._nav.AccessibleLabel"
+                  "fullyQualifiedName": "_menu._nav.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "sidebar._nav.AccessibleLabel",
+                  "fullyQualifiedName": "_menu._nav.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "sidebar",
-                "type": "sidebar._nav"
+                "module": "_menu",
+                "type": "_menu._nav"
               }
             }
           ],
@@ -145,19 +145,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "sidebar._nav.TabIndex"
+                  "fullyQualifiedName": "_menu._nav.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "sidebar._nav.TabIndex",
+                  "fullyQualifiedName": "_menu._nav.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "sidebar",
-                "type": "sidebar._nav"
+                "module": "_menu",
+                "type": "_menu._nav"
               }
             }
           ],
@@ -175,19 +175,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "sidebar._nav.block.AccessibleLabel"
+                  "fullyQualifiedName": "_menu._nav._color.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "sidebar._nav.block.AccessibleLabel",
+                  "fullyQualifiedName": "_menu._nav._color.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "sidebar",
-                "type": "sidebar._nav.block"
+                "module": "_menu",
+                "type": "_menu._nav._color"
               }
             }
           ],
@@ -205,19 +205,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "sidebar._nav.block.TabIndex"
+                  "fullyQualifiedName": "_menu._nav._color.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "sidebar._nav.block.TabIndex",
+                  "fullyQualifiedName": "_menu._nav._color.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "sidebar",
-                "type": "sidebar._nav.block"
+                "module": "_menu",
+                "type": "_menu._nav._color"
               }
             }
           ],
@@ -235,19 +235,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "sidebar._nav._Natpis.FocusedBorderThickness"
+                  "fullyQualifiedName": "_menu._nav._text.FocusedBorderThickness"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "sidebar._nav._Natpis.FocusedBorderThickness",
+                  "fullyQualifiedName": "_menu._nav._text.FocusedBorderThickness",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "FocusedBorderThickness",
-                "module": "sidebar",
-                "type": "sidebar._nav._Natpis"
+                "module": "_menu",
+                "type": "_menu._nav._text"
               }
             }
           ],
@@ -265,19 +265,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "sidebar._nav._Natpis.TabIndex"
+                  "fullyQualifiedName": "_menu._nav._text.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "sidebar._nav._Natpis.TabIndex",
+                  "fullyQualifiedName": "_menu._nav._text.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "sidebar",
-                "type": "sidebar._nav._Natpis"
+                "module": "_menu",
+                "type": "_menu._nav._text"
               }
             }
           ],
@@ -295,19 +295,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "sidebar._nav_lower.AccessibleLabel"
+                  "fullyQualifiedName": "_menu._nav_lower.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "sidebar._nav_lower.AccessibleLabel",
+                  "fullyQualifiedName": "_menu._nav_lower.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "sidebar",
-                "type": "sidebar._nav_lower"
+                "module": "_menu",
+                "type": "_menu._nav_lower"
               }
             }
           ],
@@ -325,19 +325,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "sidebar._nav_lower.TabIndex"
+                  "fullyQualifiedName": "_menu._nav_lower.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "sidebar._nav_lower.TabIndex",
+                  "fullyQualifiedName": "_menu._nav_lower.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "sidebar",
-                "type": "sidebar._nav_lower"
+                "module": "_menu",
+                "type": "_menu._nav_lower"
               }
             }
           ],
@@ -355,19 +355,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "sidebar._nav_lower.block_1.AccessibleLabel"
+                  "fullyQualifiedName": "_menu._nav_lower.block_1.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "sidebar._nav_lower.block_1.AccessibleLabel",
+                  "fullyQualifiedName": "_menu._nav_lower.block_1.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "sidebar",
-                "type": "sidebar._nav_lower.block_1"
+                "module": "_menu",
+                "type": "_menu._nav_lower.block_1"
               }
             }
           ],
@@ -385,19 +385,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "sidebar._nav_lower.block_1.TabIndex"
+                  "fullyQualifiedName": "_menu._nav_lower.block_1.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "sidebar._nav_lower.block_1.TabIndex",
+                  "fullyQualifiedName": "_menu._nav_lower.block_1.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "sidebar",
-                "type": "sidebar._nav_lower.block_1"
+                "module": "_menu",
+                "type": "_menu._nav_lower.block_1"
               }
             }
           ],
@@ -415,19 +415,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "sidebar._nav_lower._Natpis_1.FocusedBorderThickness"
+                  "fullyQualifiedName": "_menu._nav_lower._Natpis_1.FocusedBorderThickness"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "sidebar._nav_lower._Natpis_1.FocusedBorderThickness",
+                  "fullyQualifiedName": "_menu._nav_lower._Natpis_1.FocusedBorderThickness",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "FocusedBorderThickness",
-                "module": "sidebar",
-                "type": "sidebar._nav_lower._Natpis_1"
+                "module": "_menu",
+                "type": "_menu._nav_lower._Natpis_1"
               }
             }
           ],
@@ -445,19 +445,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "sidebar._nav_lower._Natpis_1.TabIndex"
+                  "fullyQualifiedName": "_menu._nav_lower._Natpis_1.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "sidebar._nav_lower._Natpis_1.TabIndex",
+                  "fullyQualifiedName": "_menu._nav_lower._Natpis_1.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "sidebar",
-                "type": "sidebar._nav_lower._Natpis_1"
+                "module": "_menu",
+                "type": "_menu._nav_lower._Natpis_1"
               }
             }
           ],
@@ -475,19 +475,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "sidebar._nav_lower.Button3.FocusedBorderThickness"
+                  "fullyQualifiedName": "_menu._nav_lower.Button3.FocusedBorderThickness"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "sidebar._nav_lower.Button3.FocusedBorderThickness",
+                  "fullyQualifiedName": "_menu._nav_lower.Button3.FocusedBorderThickness",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "FocusedBorderThickness",
-                "module": "sidebar",
-                "type": "sidebar._nav_lower.Button3"
+                "module": "_menu",
+                "type": "_menu._nav_lower.Button3"
               }
             }
           ],
@@ -529,6 +529,66 @@
           },
           "ruleId": "app-UnusedVariables",
           "ruleIndex": 4
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "App.logo-rebeca-held"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "App.logo-rebeca-held",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "logo-rebeca-held",
+                "module": "App",
+                "type": "App"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "app-UnusedMediaResources",
+          "ruleIndex": 5
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "App.logo-rebeca-held_1"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "App.logo-rebeca-held_1",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "logo-rebeca-held_1",
+                "module": "App",
+                "type": "App"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "app-UnusedMediaResources",
+          "ruleIndex": 5
         }
       ],
       "tool": {
@@ -619,6 +679,23 @@
                 "level": "Medium",
                 "primaryCategory": "performance",
                 "whyFix": "This variable is declared but is not referenced by any control, so it is not needed."
+              }
+            },
+            {
+              "id": "app-UnusedMediaResources",
+              "messageStrings": {
+                "issue": {
+                  "text": "Unused media files"
+                }
+              },
+              "properties": {
+                "componentType": "app",
+                "howToFix": [
+                  "Remove the unused media file in the Media pane."
+                ],
+                "level": "Medium",
+                "primaryCategory": "performance",
+                "whyFix": "This media file is not referenced by any control formulas so it is not needed. Removing it will improve performance."
               }
             }
           ],

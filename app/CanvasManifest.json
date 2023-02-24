@@ -106,9 +106,9 @@
   },
   "PublishInfo": {
     "AppName": "WIP",
-    "BackgroundColor": "rgba(0, 94, 146, 1)",
+    "BackgroundColor": "rgba(255, 255, 255, 1)",
     "IconColor": "RGBA(255,255,255,1)",
-    "IconName": "ContactInfo",
+    "IconName": "",
     "LogoFileName": "logo.jpg",
     "PublishDataLocally": false,
     "PublishResourcesLocally": false,

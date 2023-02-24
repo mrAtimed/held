@@ -127,7 +127,7 @@
         "Name": "logo",
         "Parent": "_headder",
         "PersistMetaDataIDKey": false,
-        "PublishOrderIndex": 2,
+        "PublishOrderIndex": 3,
         "Rules": [
           {
             "Category": "Design",
@@ -469,7 +469,7 @@
         "Name": "naziv",
         "Parent": "_headder",
         "PersistMetaDataIDKey": false,
-        "PublishOrderIndex": 3,
+        "PublishOrderIndex": 4,
         "Rules": [
           {
             "Category": "Data",
@@ -790,7 +790,7 @@
         "Name": "sjena",
         "Parent": "_headder",
         "PersistMetaDataIDKey": false,
-        "PublishOrderIndex": 4,
+        "PublishOrderIndex": 5,
         "Rules": [
           {
             "Category": "Design",
