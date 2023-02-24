@@ -14,6 +14,47 @@
             {
               "logicalLocations": [
                 {
+                  "fullyQualifiedName": "App.OnStart"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "App.OnStart",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 348,
+                  "charOffset": 118,
+                  "snippet": {
+                    "text": "Set( _NavMenu,\r\n {id:1, name: \"Evidencija\", en:\"records\", ru:\"записывать\", nav:App.ActiveScreen},\r\n{id:2, name: \"Pacjenti\", en:\"clients\", ru:\"клиенты\", nav:App.ActiveScreen},\r\n{id:3, name: \"Zahvati\", en:\"signing\", ru:\"подписание\", nav:App.ActiveScreen},\r\n{id:4, name: \"Papirologija\", en:\"signing\", ru:\"подписание\", nav:App.ActiveScreen}\r\n\r\n\r\n\r\n\r\n )"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnStart",
+                "module": "App",
+                "type": "App"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "5",
+              "2"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrBadArity",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
                   "fullyQualifiedName": "App.StartScreen"
                 }
               ],
@@ -48,7 +89,47 @@
             "level": "High"
           },
           "ruleId": "app-ErrIncompatibleRulePropTypes-PropKind-RuleKind",
-          "ruleIndex": 0
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "_evidencija.sidebar_e._nav"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "_evidencija.sidebar_e._nav",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 8,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "_NavMenu"
+                  }
+                }
+              },
+              "properties": {
+                "member": "_nav",
+                "module": "_evidencija",
+                "type": "_evidencija.sidebar_e"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "_NavMenu"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 2
         },
         {
           "locations": [
@@ -78,7 +159,7 @@
             "level": "Medium"
           },
           "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
+          "ruleIndex": 3
         },
         {
           "locations": [
@@ -108,7 +189,7 @@
             "level": "Medium"
           },
           "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 2
+          "ruleIndex": 4
         },
         {
           "locations": [
@@ -138,7 +219,7 @@
             "level": "Medium"
           },
           "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 2
+          "ruleIndex": 4
         },
         {
           "locations": [
@@ -168,7 +249,7 @@
             "level": "Medium"
           },
           "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
+          "ruleIndex": 3
         },
         {
           "locations": [
@@ -198,7 +279,7 @@
             "level": "Medium"
           },
           "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 2
+          "ruleIndex": 4
         },
         {
           "locations": [
@@ -228,7 +309,7 @@
             "level": "Medium"
           },
           "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
+          "ruleIndex": 3
         },
         {
           "locations": [
@@ -258,7 +339,7 @@
             "level": "Medium"
           },
           "ruleId": "acc-FocusBorderShouldBeVisible",
-          "ruleIndex": 3
+          "ruleIndex": 5
         },
         {
           "locations": [
@@ -288,7 +369,7 @@
             "level": "Medium"
           },
           "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
+          "ruleIndex": 3
         },
         {
           "locations": [
@@ -318,7 +399,7 @@
             "level": "Medium"
           },
           "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 2
+          "ruleIndex": 4
         },
         {
           "locations": [
@@ -348,7 +429,7 @@
             "level": "Medium"
           },
           "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
+          "ruleIndex": 3
         },
         {
           "locations": [
@@ -378,7 +459,7 @@
             "level": "Medium"
           },
           "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 2
+          "ruleIndex": 4
         },
         {
           "locations": [
@@ -408,7 +489,7 @@
             "level": "Medium"
           },
           "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
+          "ruleIndex": 3
         },
         {
           "locations": [
@@ -438,7 +519,7 @@
             "level": "Medium"
           },
           "ruleId": "acc-FocusBorderShouldBeVisible",
-          "ruleIndex": 3
+          "ruleIndex": 5
         },
         {
           "locations": [
@@ -468,7 +549,7 @@
             "level": "Medium"
           },
           "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
+          "ruleIndex": 3
         },
         {
           "locations": [
@@ -498,37 +579,7 @@
             "level": "Medium"
           },
           "ruleId": "acc-FocusBorderShouldBeVisible",
-          "ruleIndex": 3
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "App._NavMenu"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "App._NavMenu",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "_NavMenu",
-                "module": "App",
-                "type": "App"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "app-UnusedVariables",
-          "ruleIndex": 4
+          "ruleIndex": 5
         },
         {
           "locations": [
@@ -558,7 +609,7 @@
             "level": "Medium"
           },
           "ruleId": "app-UnusedVariables",
-          "ruleIndex": 4
+          "ruleIndex": 6
         },
         {
           "locations": [
@@ -588,7 +639,7 @@
             "level": "Medium"
           },
           "ruleId": "app-UnusedMediaResources",
-          "ruleIndex": 5
+          "ruleIndex": 7
         },
         {
           "locations": [
@@ -618,7 +669,7 @@
             "level": "Medium"
           },
           "ruleId": "app-UnusedMediaResources",
-          "ruleIndex": 5
+          "ruleIndex": 7
         }
       ],
       "tool": {
@@ -626,6 +677,20 @@
           "fullName": "PowerApps app checker",
           "name": "PowerApps app checker",
           "rules": [
+            {
+              "id": "app-ErrBadArity",
+              "messageStrings": {
+                "issue": {
+                  "text": "Invalid number of arguments: received {0}, expected {1}."
+                }
+              },
+              "properties": {
+                "componentType": "app",
+                "level": "High",
+                "primaryCategory": "formula",
+                "whyFix": ""
+              }
+            },
             {
               "id": "app-ErrIncompatibleRulePropTypes-PropKind-RuleKind",
               "messageStrings": {
@@ -637,6 +702,23 @@
                 "componentType": "app",
                 "howToFix": [
                   "Change the rule to produce a {0} value."
+                ],
+                "level": "High",
+                "primaryCategory": "formula",
+                "whyFix": ""
+              }
+            },
+            {
+              "id": "app-ErrInvalidName",
+              "messageStrings": {
+                "issue": {
+                  "text": "Name isn't valid. '{0}' isn't recognized."
+                }
+              },
+              "properties": {
+                "componentType": "app",
+                "howToFix": [
+                  "Remove or correct the reference to the name that isn't valid."
                 ],
                 "level": "High",
                 "primaryCategory": "formula",

@@ -2,6 +2,7 @@ _evidencija As screen:
     LoadingSpinnerColor: =RGBA(100, 118, 132, 1)
 
     sidebar_e As _menu:
+        _nav: =_NavMenu
         ZIndex: =2
 
     "_galEvidencija As gallery.'BrowseLayout_Vertical_TwoTextOneImageVariant_ver4.0'":
