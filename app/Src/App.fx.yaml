@@ -8,6 +8,17 @@ App As appinfo:
             Sekundarna: RGBA(100, 118, 132, .5)
             }
         
+         );
+        
+         Set( _NavMenu,
+         Table(
+        {id:1, name: "Evidencija", en:"records", ru:"записывать", nav:App.ActiveScreen},
+        {id:2, name: "Pacjenti", en:"clients", ru:"клиенты", nav:App.ActiveScreen},
+        {id:3, name: "Papirlologija", en:"signing", ru:"подписание", nav:App.ActiveScreen}
+        
+        )
+        
+        
          )
     StartScreen: =RGBA(100, 118, 132, 1)
 
