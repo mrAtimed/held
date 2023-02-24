@@ -10,12 +10,12 @@ App As appinfo:
         
          );
         
-         Set( _NavMenu,[
+         Table( _NavMenu,(
          {id:1, name: "Evidencija", en:"records", ru:"записывать", nav: Home},
         {id:2, name: "Pacjenti", en:"clients", ru:"клиенты", nav: Home},
         {id:3, name: "Zahvati", en:"signing", ru:"подписание", nav: Home},
         {id:4, name: "Papirologija", en:"signing", ru:"подписание", nav: Home}
-         ]
+         )
         
         
         
