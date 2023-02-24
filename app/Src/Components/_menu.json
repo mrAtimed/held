@@ -115,7 +115,7 @@
         "Name": "_logo",
         "Parent": "_menu",
         "PersistMetaDataIDKey": false,
-        "PublishOrderIndex": 6,
+        "PublishOrderIndex": 9,
         "Rules": [
           {
             "Category": "Data",
@@ -463,7 +463,7 @@
         "Name": "_naslov",
         "Parent": "_menu",
         "PersistMetaDataIDKey": false,
-        "PublishOrderIndex": 7,
+        "PublishOrderIndex": 10,
         "Rules": [
           {
             "Category": "Data",
@@ -744,7 +744,7 @@
             "Name": "galleryTemplate1",
             "Parent": "_nav",
             "PersistMetaDataIDKey": false,
-            "PublishOrderIndex": 9,
+            "PublishOrderIndex": 12,
             "Rules": [
               {
                 "Category": "Design",
@@ -845,7 +845,7 @@
             "Name": "_color",
             "Parent": "_nav",
             "PersistMetaDataIDKey": false,
-            "PublishOrderIndex": 10,
+            "PublishOrderIndex": 13,
             "Rules": [
               {
                 "Category": "Design",
@@ -1103,7 +1103,7 @@
             "Name": "_broj",
             "Parent": "_nav",
             "PersistMetaDataIDKey": false,
-            "PublishOrderIndex": 11,
+            "PublishOrderIndex": 14,
             "Rules": [
               {
                 "Category": "Data",
@@ -1497,7 +1497,7 @@
             "Name": "_text",
             "Parent": "_nav",
             "PersistMetaDataIDKey": false,
-            "PublishOrderIndex": 12,
+            "PublishOrderIndex": 15,
             "Rules": [
               {
                 "Category": "Data",
@@ -1921,7 +1921,7 @@
             "Name": "_gumb",
             "Parent": "_nav",
             "PersistMetaDataIDKey": false,
-            "PublishOrderIndex": 13,
+            "PublishOrderIndex": 16,
             "Rules": [
               {
                 "Category": "Data",
@@ -2269,7 +2269,7 @@
         "Name": "_nav",
         "Parent": "_menu",
         "PersistMetaDataIDKey": false,
-        "PublishOrderIndex": 8,
+        "PublishOrderIndex": 11,
         "Rules": [
           {
             "Category": "Data",
@@ -2472,7 +2472,7 @@
             "Name": "galleryTemplate1_1",
             "Parent": "_nav_lower",
             "PersistMetaDataIDKey": false,
-            "PublishOrderIndex": 15,
+            "PublishOrderIndex": 18,
             "Rules": [
               {
                 "Category": "Design",
@@ -2566,7 +2566,7 @@
             "Name": "_sjena_1",
             "Parent": "_nav_lower",
             "PersistMetaDataIDKey": false,
-            "PublishOrderIndex": 16,
+            "PublishOrderIndex": 19,
             "Rules": [
               {
                 "Category": "Data",
@@ -2757,7 +2757,7 @@
             "Name": "block_1",
             "Parent": "_nav_lower",
             "PersistMetaDataIDKey": false,
-            "PublishOrderIndex": 17,
+            "PublishOrderIndex": 20,
             "Rules": [
               {
                 "Category": "Design",
@@ -3001,7 +3001,7 @@
             "Name": "_Broj_1",
             "Parent": "_nav_lower",
             "PersistMetaDataIDKey": false,
-            "PublishOrderIndex": 18,
+            "PublishOrderIndex": 21,
             "Rules": [
               {
                 "Category": "Data",
@@ -3388,7 +3388,7 @@
             "Name": "_Natpis_1",
             "Parent": "_nav_lower",
             "PersistMetaDataIDKey": false,
-            "PublishOrderIndex": 19,
+            "PublishOrderIndex": 22,
             "Rules": [
               {
                 "Category": "Data",
@@ -3826,7 +3826,7 @@
             "Name": "Button3",
             "Parent": "_nav_lower",
             "PersistMetaDataIDKey": false,
-            "PublishOrderIndex": 20,
+            "PublishOrderIndex": 23,
             "Rules": [
               {
                 "Category": "Data",
@@ -4182,7 +4182,7 @@
         "Name": "_nav_lower",
         "Parent": "_menu",
         "PersistMetaDataIDKey": false,
-        "PublishOrderIndex": 14,
+        "PublishOrderIndex": 17,
         "Rules": [
           {
             "Category": "Data",
@@ -4483,7 +4483,7 @@
         "Name": "_footer",
         "Parent": "_menu",
         "PersistMetaDataIDKey": false,
-        "PublishOrderIndex": 21,
+        "PublishOrderIndex": 24,
         "Rules": [
           {
             "Category": "Data",

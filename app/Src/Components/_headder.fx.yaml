@@ -3,28 +3,11 @@ _headder As CanvasComponent:
     _logo: =SampleImage
     _naziv: ="Evidencija Zahvata / Konzultacija"
     Fill: =RGBA(100, 118, 132, 1)
-    Height: =App.Height / 10
-    Width: =App.Width
+    Height: =App.Height / 15
+    Width: =App.Width - 250
     X: =0
     Y: =0
     ZIndex: =1
-
-    logo As icon.Add:
-        BorderColor: =RGBA(32, 54, 71, 1)
-        Color: =RGBA(255, 255, 255, 1)
-        DisabledBorderColor: =RGBA(166, 166, 166, 1)
-        DisabledColor: =RGBA(244, 244, 244, 1)
-        Height: =Parent.Height
-        Icon: =Icon.Hospital
-        OnSelect: =Parent._link
-        PaddingBottom: =Self.PaddingTop * 2
-        PaddingLeft: =Self.PaddingTop * 2
-        PaddingRight: =Self.PaddingTop
-        PaddingTop: =5
-        Width: =Self.Height
-        X: =0*1
-        Y: =0*1
-        ZIndex: =1
 
     sjena As rectangle:
         BorderColor: =RGBA(32, 54, 71, 1)
@@ -35,22 +18,4 @@ _headder As CanvasComponent:
         X: =0*1
         Y: =Parent.Height - Self.Height * 2
         ZIndex: =2
-
-    naziv As label:
-        BorderColor: =RGBA(32, 54, 71, 1)
-        Color: =RGBA(255, 255, 255, 1)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        Font: =Font.Lato
-        FontWeight: =FontWeight.Bold
-        Height: =Parent.Height
-        Italic: =true
-        LineHeight: =1
-        PaddingBottom: =logo.PaddingBottom
-        Size: =30
-        Text: =Parent._naziv
-        VerticalAlign: =VerticalAlign.Bottom
-        Width: =Parent.Width / 2
-        X: =logo.X + logo.Width
-        Y: =0*1
-        ZIndex: =3
 
