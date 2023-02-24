@@ -10,7 +10,7 @@ App As appinfo:
         
          );
         
-         Table( _NavMenu,(
+         Table((
          {id:1, name: "Evidencija", en:"records", ru:"записывать", nav: Home},
         {id:2, name: "Pacjenti", en:"clients", ru:"клиенты", nav: Home},
         {id:3, name: "Zahvati", en:"signing", ru:"подписание", nav: Home},
