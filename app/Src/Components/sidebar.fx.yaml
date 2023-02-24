@@ -24,15 +24,6 @@ sidebar As CanvasComponent:
     Y: =0
     ZIndex: =1
 
-    _sjena_15 As htmlViewer:
-        Height: =50
-        HtmlText: |-
-            ="<div style='background-color: rgba(0,0,0,0); box-shadow: 0px 1px 6px 0px rgba(79,77,77,0.95); margin: 10px; width: 251px; height: 20px; border-radius: 0px'></div>"
-        Width: =300
-        X: =-15
-        Y: =57
-        ZIndex: =1
-
     _logo As image:
         BorderColor: =RGBA(0, 89, 178, 1)
         DisabledBorderColor: =RGBA(166, 166, 166, 1)
@@ -47,15 +38,6 @@ sidebar As CanvasComponent:
         Width: =250
         Y: =-1
         ZIndex: =2
-
-    _sjena_16 As htmlViewer:
-        Height: =150
-        HtmlText: |-
-            ="<div style='background-color: rgba(0,0,0,0); box-shadow: 0px 0px 18px 0px rgba(79,77,77,0.35); margin: 30px; width: 251px; height: 20px; border-radius: 0px'></div>"
-        Width: =300
-        X: =-37
-        Y: =-56
-        ZIndex: =3
 
     _naslov As label:
         Align: =Align.Center
@@ -263,17 +245,8 @@ sidebar As CanvasComponent:
         Height: =20
         LineHeight: =1
         Size: =9
-        Text: =sidebar._lang & "v3.59"
+        Text: ="v0.60"
         Width: =250
         Y: =748
         ZIndex: =7
-
-    HtmlText1_3 As htmlViewer:
-        Height: =880
-        HtmlText: |-
-            ="<div style='background-color: rgba(0,0,0,0); box-shadow: 0px 1px 7px 1px rgba(89,87,87,0.50); margin: 30px; width: 1225px; height: 800px; border-radius: 0px'></div>"
-        Width: =50
-        X: =216
-        Y: =-46
-        ZIndex: =8
 
