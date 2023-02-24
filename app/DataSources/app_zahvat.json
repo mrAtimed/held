@@ -30,6 +30,8 @@
       "Editor": "Modified By",
       "Editor#Claims": "Modified By Claims",
       "ID": "ID",
+      "link_zahvat": "link_zahvat",
+      "link_zahvat#Id": "link_zahvat Id",
       "Modified": "Modified",
       "OData__pacjent": "_pacjent",
       "OData__pacjent#Id": "_pacjent Id",
