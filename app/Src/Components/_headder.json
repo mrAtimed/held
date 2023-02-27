@@ -18,7 +18,7 @@
       "Name": "_logo",
       "PropertyDataTypeKey": "Image",
       "Tooltip": "...",
-      "Type": "{\"Version\":\"1.327\",\"Type\":{\"Name\":\"Root\",\"Kind\":\"Image\",\"EnumString\":\"\",\"Type\":[]}}"
+      "Type": "{\"Version\":\"1.328\",\"Type\":{\"Name\":\"Root\",\"Kind\":\"Image\",\"EnumString\":\"\",\"Type\":[]}}"
     },
     {
       "Category": 0,
@@ -27,7 +27,7 @@
       "Name": "_naziv",
       "PropertyDataTypeKey": "String",
       "Tooltip": "...",
-      "Type": "{\"Version\":\"1.327\",\"Type\":{\"Name\":\"Root\",\"Kind\":\"String\",\"EnumString\":\"\",\"Type\":[]}}"
+      "Type": "{\"Version\":\"1.328\",\"Type\":{\"Name\":\"Root\",\"Kind\":\"String\",\"EnumString\":\"\",\"Type\":[]}}"
     },
     {
       "Category": 0,
@@ -36,7 +36,7 @@
       "Name": "_link",
       "PropertyDataTypeKey": "String",
       "Tooltip": "...",
-      "Type": "{\"Version\":\"1.327\",\"Type\":{\"Name\":\"Root\",\"Kind\":\"String\",\"EnumString\":\"\",\"Type\":[]}}"
+      "Type": "{\"Version\":\"1.328\",\"Type\":{\"Name\":\"Root\",\"Kind\":\"String\",\"EnumString\":\"\",\"Type\":[]}}"
     }
   ],
   "FirstParty": true,
@@ -47,7 +47,7 @@
   "IsPcfControl": false,
   "IsPremiumPcfControl": false,
   "IsWidgetTemplate": false,
-  "LastModifiedTimestamp": "638128210176561738",
+  "LastModifiedTimestamp": "638130772331634593",
   "Name": "f9adb5dfe499474e90614ba40a31b225",
   "OverridableProperties": {},
   "Version": "638124857770427722"
