@@ -1,8 +1,5 @@
 {
   "0175a8bd-2c5d-4709-ba25-8883d71e2e1d": {
-    "connectionParameters": {
-      "sku": "Enterprise"
-    },
     "connectionRef": {
       "apiTier": "Standard",
       "displayName": "SharePoint",
@@ -50,12 +47,6 @@
     "id": "0175a8bd-2c5d-4709-ba25-8883d71e2e1d"
   },
   "b142478a-fd3b-4ed8-8914-c9b3e1278abc": {
-    "connectionParameters": {
-      "workFlowCallbackUri": "https://prod-03.westeurope.logic.azure.com:443/workflows/52444adf229e4d8d829cf9a4b1b24287/triggers/manual/paths/invoke?api-version=2016-06-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=kAg2z3Gv03BEP1XQ38jzgFLscK0J3vwBw9kZQLk0nR8",
-      "workflowEndpoint": "/subscriptions/ac07fa44-4742-482d-aa28-c00945932935/resourceGroups/861fa2f0631241b195328b0db71f9ecd-84c41a870ae24bd88d9060a307a9e4b5/providers/Microsoft.Logic/workflows/2d90b5df-baaa-4060-a3ea-310ac7749413",
-      "workflowName": "2d90b5df-baaa-4060-a3ea-310ac7749413",
-      "workflowPath": "/subscriptions/ac07fa44-4742-482d-aa28-c00945932935/resourceGroups/861fa2f0631241b195328b0db71f9ecd-84c41a870ae24bd88d9060a307a9e4b5/providers/Microsoft.Logic/workflows/2d90b5df-baaa-4060-a3ea-310ac7749413"
-    },
     "connectionRef": {
       "displayName": "Logic flows",
       "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1615/1.0.1615.3163/logicflows/icon.png",

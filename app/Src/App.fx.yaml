@@ -12,14 +12,21 @@ App As appinfo:
         
         
         ClearCollect( _NavManu,{
-            id:1, name: "Evidencija", en:"records", ru:"записывать", nav: Home
+            id:1, name: "Evidencija", en:"records", ru:"записывать", nav: _pacjenti
             },{
-            id:2, name: "Pacjenti", en:"clients", ru:"клиенты", nav: Home
+            id:2, name: "Pacjenti", en:"clients", ru:"клиенты", nav: _pacjenti
             },{
-            id:3, name: "Zahvati", en:"signing", ru:"подписание", nav: Home
+            id:3, name: "Zahvati", en:"signing", ru:"подписание", nav: _pacjenti
             },{
-            id:4, name: "Papirologija", en:"signing", ru:"подписание", nav: Home
+            id:4, name: "Papirologija", en:"signing", ru:"подписание", nav: _pacjenti
             }
         );
     StartScreen: =RGBA(100, 118, 132, 1)
+
+    Host As hostControl.DefaultHostControlVariant:
+        OnCancel: =false
+        OnEdit: =false
+        OnNew: =false
+        OnSave: =false
+        OnView: =false
 

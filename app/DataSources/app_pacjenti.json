@@ -3,7 +3,7 @@
     "ApiId": "/providers/microsoft.powerapps/apis/shared_sharepointonline",
     "CdpRevision": {
       "BaseUrl": "/",
-      "LastChangedTimeString": "2022-11-09T17:32:51.2080000Z",
+      "LastChangedTimeString": "2023-06-06T16:15:32.2650000Z",
       "RevisionNumber": 1
     },
     "ConnectedDataSourceInfoNameMapping": {
@@ -31,8 +31,10 @@
       "Editor#Claims": "Modified By Claims",
       "ID": "ID",
       "Modified": "Modified",
+      "OData__ColorTag": "Oznaka boje",
       "OData__datum_rodenja": "_datum_rodenja",
       "OData__ime": "_ime",
+      "OData__mjesto_rodenja": "_mjesto_rodenja",
       "OData__prezime": "_prezime",
       "Title": "Title"
     },

@@ -3,7 +3,7 @@
     "ApiId": "/providers/microsoft.powerapps/apis/shared_sharepointonline",
     "CdpRevision": {
       "BaseUrl": "/",
-      "LastChangedTimeString": "2022-11-09T17:32:51.2080000Z",
+      "LastChangedTimeString": "2023-06-06T16:15:32.2650000Z",
       "RevisionNumber": 1
     },
     "ConnectedDataSourceInfoNameMapping": {
@@ -31,10 +31,10 @@
       "Editor#Claims": "Modified By Claims",
       "ID": "ID",
       "Modified": "Modified",
-      "OData__aznestezija": "_aznestezija",
-      "OData__aznestezija#Id": "_aznestezija Id",
+      "OData__ColorTag": "Oznaka boje",
       "OData__def_anestezija": "_def_anestezija",
       "OData__def_anestezija#Id": "_def_anestezija Id",
+      "OData__otpusno_text": "_otpusno_text",
       "OData__trajanje": "_trajanje",
       "OData__zona": "_zona",
       "Title": "Title"
