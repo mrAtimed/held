@@ -1,11 +1,13 @@
 {
   "ComponentIndexes": {
-    "_headder": 3,
-    "_menu": 5,
-    "_sidebar": 4,
+    "_headder": 5,
+    "_menu": 7,
+    "_sidebar": 6,
+    "sidebar_implantanti": 4,
     "sidebar_index": 4,
     "sidebar_pacjenti": 4,
-    "sidebar_pacjenti_zahvati": 4
+    "sidebar_pacjenti_zahvati": 4,
+    "sidebar_zahvati": 4
   },
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
@@ -21,6 +23,7 @@
     "_galSlika": 29,
     "_gumb": 15,
     "_headder": 5,
+    "_implantanti": 89,
     "_index": 25,
     "_logo": 8,
     "_menu": 7,
@@ -33,6 +36,7 @@
     "_sidebar": 4,
     "_sjena_1": 18,
     "_text": 14,
+    "_zahvati": 87,
     "App": 1,
     "block_1": 19,
     "Button3": 22,
@@ -41,14 +45,16 @@
     "galleryTemplate2": 28,
     "Host": 3,
     "Separator1": 34,
+    "sidebar_implantanti": 90,
     "sidebar_index": 26,
     "sidebar_pacjenti": 84,
     "sidebar_pacjenti_zahvati": 86,
+    "sidebar_zahvati": 88,
     "sjena": 6
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "07/04/2023 06:12:42",
+  "HeaderLastSavedDateTimeUTC": "07/04/2023 11:18:33",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "0175a8bd-2c5d-4709-ba25-8883d71e2e1d": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/4ef7de8d4bdc40c48d41031bdc6ba8f6\"",
@@ -113,6 +119,7 @@
     "_galSlika": {},
     "_gumb": {},
     "_headder": {},
+    "_implantanti": {},
     "_index": {},
     "_logo": {},
     "_menu": {},
@@ -125,6 +132,7 @@
     "_sidebar": {},
     "_sjena_1": {},
     "_text": {},
+    "_zahvati": {},
     "App": {},
     "block_1": {},
     "Button3": {},
@@ -133,9 +141,11 @@
     "galleryTemplate2": {},
     "Host": {},
     "Separator1": {},
+    "sidebar_implantanti": {},
     "sidebar_index": {},
     "sidebar_pacjenti": {},
     "sidebar_pacjenti_zahvati": {},
+    "sidebar_zahvati": {},
     "sjena": {}
   },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
@@ -153,6 +163,7 @@
     "_galSlika": 3,
     "_gumb": 19,
     "_headder": 0,
+    "_implantanti": 0,
     "_index": 0,
     "_logo": 12,
     "_menu": 0,
@@ -165,6 +176,7 @@
     "_sidebar": 0,
     "_sjena_1": 22,
     "_text": 18,
+    "_zahvati": 0,
     "App": 0,
     "block_1": 23,
     "Button3": 26,
@@ -173,9 +185,11 @@
     "galleryTemplate2": 2,
     "Host": 0,
     "Separator1": 8,
+    "sidebar_implantanti": 10,
     "sidebar_index": 0,
     "sidebar_pacjenti": 9,
     "sidebar_pacjenti_zahvati": 10,
+    "sidebar_zahvati": 10,
     "sjena": 11
   },
   "ResourcesJsonIndices": {
@@ -189,7 +203,7 @@
   "VolatileProperties": {
     "AnalysisLoadTime": 0.4650724,
     "ControlCount": {
-      "96398158e8e746fc93d8e965925c0a0b": 4,
+      "96398158e8e746fc93d8e965925c0a0b": 6,
       "b9f92939a4eb47ec81592b9123c0206a": 1,
       "button": 2,
       "combobox": 7,
@@ -202,7 +216,7 @@
       "image": 3,
       "label": 36,
       "rectangle": 5,
-      "screen": 3,
+      "screen": 5,
       "text": 1,
       "typedDataCard": 8
     },

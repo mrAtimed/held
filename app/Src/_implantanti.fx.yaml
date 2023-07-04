@@ -1,0 +1,7 @@
+_implantanti As screen:
+    LoadingSpinnerColor: =RGBA(100, 118, 132, 1)
+
+    sidebar_implantanti As _menu:
+        _nav: =_NavManu
+        ZIndex: =2
+

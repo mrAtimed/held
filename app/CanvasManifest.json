@@ -7,7 +7,7 @@
   },
   "Properties": {
     "AppCreationSource": "AppFromScratch",
-    "AppDescription": "",
+    "AppDescription": "drugi dan start",
     "AppPreviewFlagsMap": {
       "aibuilderserviceenrollment": false,
       "allowmultiplescreensincanvaspages": false,
@@ -133,6 +133,8 @@
   "ScreenOrder": [
     "_index",
     "_pacjenti",
-    "_pacjenti_zahvati"
+    "_pacjenti_zahvati",
+    "_zahvati",
+    "_implantanti"
   ]
 }
